@@ -1,11 +1,13 @@
 # Fetch Dog CEO Challenge
 
+[ X ]
+
 ## Challenge 1
 
 This repository includes an `index.html` file that loads an `index.js` file.
 
 ```js
-const imgUrl = "https://dog.ceo/api/breeds/image/random/4"
+const imgUrl = "https://dog.ceo/api/breeds/image/random/4";
 ```
 
 Add JavaScript so that:
@@ -17,10 +19,12 @@ Add JavaScript so that:
 
 ---
 
+[ X ]
+
 ## Challenge 2
 
 ```js
-const breedUrl = 'https://dog.ceo/api/breeds/list/all'
+const breedUrl = "https://dog.ceo/api/breeds/list/all";
 ```
 
 After the first challenge is completed, add JavaScript so that:
@@ -29,6 +33,8 @@ After the first challenge is completed, add JavaScript so that:
 - add the breeds to the page in an `<ul>` (take a look at the included `index.html`)
 
 ---
+
+[ X ]
 
 ## Challenge 3
 
@@ -40,6 +46,8 @@ When the user clicks any of the dog breed list items, the color the text should
 change.
 
 ---
+
+[ ]
 
 ## Challenge 4
 
